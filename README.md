@@ -6,13 +6,14 @@ ROSを用いて1から順にカウントし、3の倍数でnasu、15の倍数で
 
 
 # 動作環境
+Raspberry Pi 4 Model B
 ubuntu20.04  
 # 実行方法 
 1つ目の端末 roscore  
 2つ目の端末 chmod +x count.py  
 2つ目の端末 chmod +x nasu.py  
 2つ目の端末 roslaunch mypkg mypkg.launch  
-# 動画URL
+# デモ動画URL
 https://youtu.be/Efth328Pegw
 # ライセンス
 BSD 3.0
