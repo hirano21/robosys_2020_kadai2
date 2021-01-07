@@ -7,7 +7,7 @@ ROSを用いて1から順にカウントし、3の倍数でnasu、15の倍数で
 
 # 動作環境
 Raspberry Pi 4 Model B  
-ubuntu20.04  
+ubuntu 20.04  
 # 実行方法 
 1つ目の端末 roscore  
 2つ目の端末 chmod +x count.py  
