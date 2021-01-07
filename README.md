@@ -15,4 +15,4 @@ ubuntu20.04
 # 動画URL
 https://youtu.be/Efth328Pegw
 # ライセンス
-BSDv3.0
+BSD 3.0
