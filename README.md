@@ -9,7 +9,9 @@ ROSを用いて1から順にカウントし、3の倍数でnasu、15の倍数で
 ubuntu20.04  
 # 実行方法 
 1つ目の端末 roscore  
-2つ目の端末　chmod +x count.py  2つ目の端末 chmod +x nasu.py  2つ目の端末 roslaunch mypkg mypkg.launch  
+2つ目の端末　chmod +x count.py  
+2つ目の端末 chmod +x nasu.py  
+2つ目の端末 roslaunch mypkg mypkg.launch  
 # 動画URL
 https://youtu.be/Efth328Pegw
 # ライセンス
